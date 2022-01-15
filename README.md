@@ -7,3 +7,13 @@ It takes the the bill, tip ( in percentage ) and the number of people as an in p
 + [Next js](https://nextjs.org/)
 
 + [Material-ui](https://mui.com/)
+
+### Screenshots
+
++ ####  Mobile
+
+<img alt="mobile" src="./assets/designs/mobile.png" />
+
++ #### Laptop
+
+<img alt="mobile" src="./assets/designs/laptop.png" />
